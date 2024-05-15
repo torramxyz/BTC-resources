@@ -9,4 +9,5 @@ Find the core resource list in your development journey below:
 - [Quicknode BTC RPC](https://www.quicknode.com/docs/bitcoin#javascript)
 - [Ordhook example](https://www.hiro.so/blog/how-to-get-ordinals-inscription-data-with-ordhook#ordinals-api-vs-ordhook)
 - [Hiro tooling](https://www.hiro.so/)
+- [meta protocol sandshrew](https://www.sandshrew.io/)
 - updating...
