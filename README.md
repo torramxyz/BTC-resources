@@ -7,4 +7,5 @@ Find the core resource list in your development journey below:
 - [Hiro Scan Explorer](https://github.com/hirosystems/ordinals-explorer)
 - [Quicknode](https://www.quicknode.com/chains/btc)
 - [Ordhook example](https://www.hiro.so/blog/how-to-get-ordinals-inscription-data-with-ordhook#ordinals-api-vs-ordhook)
+- [Hiro tooling](https://www.hiro.so/)
 - updating...
