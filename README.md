@@ -10,4 +10,5 @@ Find the core resource list in your development journey below:
 - [Ordhook example](https://www.hiro.so/blog/how-to-get-ordinals-inscription-data-with-ordhook#ordinals-api-vs-ordhook)
 - [Hiro tooling](https://www.hiro.so/)
 - [meta protocol sandshrew](https://www.sandshrew.io/)
+- companies for API: Unisat, Gamma, OrdinalsBot, Luminex, GeniiData
 - updating...
